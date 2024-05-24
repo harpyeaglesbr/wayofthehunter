@@ -14,10 +14,33 @@ Jogo base instalado e funcionando em sua plataforma.
 
 ### 🔧 Instalação
 
-Baixar o arquivo selecionado e colocar na pasta de Paks do jogo conforme explicação abaixo.
+Verificar a versão atual de seu jogo, baixar o arquivo correspondente e colocar na pasta de Paks do jogo conforme explicação abaixo.
+
+**_Atenção!_** Todas as instruções abaixo presumem que o idioma esteja no Inglês (padrão do jogo).
+
+Acessar o menu principal utilizando a opção Configurações **"Settings"** ou clicando com a tecla padrão **"C"**, irá aparecer o menu principal do jogo.
+
+![Opção Inicial de Configuração](https://github.com/harpyeaglesbr/wayofthehunter/assets/170666537/0ce42b80-b2b5-4ede-8736-b5648bc99a93)
+
+Para verificar a versão atual do seu jogo, basta ir no meu **"Game"** conforme imagem abaixo.
+
+![Menu Game](https://github.com/harpyeaglesbr/wayofthehunter/assets/170666537/cca8319e-650c-4029-9895-cc183e4b45dd)
+
+Após desça até encontrar a opção **"Game version"**.
+
+![Game version](https://github.com/harpyeaglesbr/wayofthehunter/assets/170666537/0c24609e-8190-4f1e-8c8a-dbf51bd44ed9)
+
+Se estiver como desativada **"Off"**, basta trocar para **"On"** para ativá-la. Após ativar, automaticamente irá aparecer no canto inferior esquerdo da tela a versão atual.
+
+![Versão](https://github.com/harpyeaglesbr/wayofthehunter/assets/170666537/668e195a-211d-4bcd-837c-f838a4e23bae)
+
+Para saber a sua versão, considerar apenas os três primeiros números separados por pontos. Neste momento do exemplo o jogo está na versão **"1.25.2"**.
+
+Para baixar o arquivo, basta clicar na opção de sua versão desejada:
+* [1.25.2](https://github.com/harpyeaglesbr/wayofthehunter/blob/main/Translate/v1.25.2/pt-BR/Content/Paks/translate_pt-BR.zip)
 
 ### Instalação no PC (Steam) no idioma Português do Brasil:
-Ao baixar o arquivo o mesmo estará na pasta "Downloads" de sua máquina.
+Ao baixar o arquivo o mesmo deverá estar na pasta "Downloads" de sua máquina (ou na que você escolheu).
 
 Copiar o arquivo baixado para a pasta
 ```
@@ -25,10 +48,6 @@ Copiar o arquivo baixado para a pasta
 ```
 
 Após o arquivo estar dentro da pasta do jogo, basta acessar normalmente.
-
-Na opção Configurações (Settings se tiver em inglês) ou clicando com a tecla padrão "C", irá aparecer o menu principal do jogo.
-
-![Opção Inicial de Configuração](https://github.com/harpyeaglesbr/wayofthehunter/assets/170666537/0ce42b80-b2b5-4ede-8736-b5648bc99a93)
 
 Na primeira opção, **Jogo** (Game) que terá a opção para escolha do idioma, conforme imagem abaixo.
 
