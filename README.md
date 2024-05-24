@@ -80,9 +80,9 @@ Por favor, caso encontre algum problema na tradução, envie um [e-mail](mailto:
 Equipe que trabalhou para que esta tradução se tornasse realidade para a comunidade:
 
 * **Bruno Eduardo Soares Alves (PhoenixDk)** - **_Trabalho inicial de tradução - Corretor_** - *Discord* (**phoenixdk.**)
-* **Gildo Zounar Rodrigues (Gildão Hunter)** - **_Revisor - Contato com desenvolvedora oficial_** - *Discord* (**gildaohunter**)
-* **José Ricardo Garcia (Flyskin)** - **_Corretor - Revisor_** - *Discord* (**flyskin**)
-* **Lauro Geniselli (Balrog)** - **_Revisor - Interpetre_** - *Discord* (**tocadobalrog**)
+* **Gildo Zounar Rodrigues ([Gildão Hunter](https://www.youtube.com/@gildaohunter))** - **_Revisor - Contato com desenvolvedora oficial_** - *Discord* (**gildaohunter**)
+* **José Ricardo Garcia ([Flyskin](https://www.youtube.com/@flyskingames))** - **_Corretor - Revisor_** - *Discord* (**flyskin**)
+* **Lauro Geniselli ([Balrog](https://www.youtube.com/@tocadobalrog))** - **_Revisor - Interpetre_** - *Discord* (**tocadobalrog**)
 
 
 ## 🎁 Expressões de gratidão
