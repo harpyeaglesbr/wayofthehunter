@@ -16,7 +16,7 @@ Jogo base instalado e funcionando em sua plataforma.
 
 Verificar a versão atual de seu jogo, baixar o arquivo correspondente e colocar na pasta de Paks do jogo conforme explicação abaixo.
 
-**_Atenção!_** Todas as instruções abaixo presumem que o idioma esteja no Inglês (padrão do jogo).
+**_Atenção!_** 📢 Todas as instruções abaixo presumem que o idioma esteja no Inglês (padrão do jogo).
 
 Acessar o menu principal utilizando a opção Configurações **"Settings"** ou clicando com a tecla padrão **"C"**, irá aparecer o menu principal do jogo.
 
@@ -36,18 +36,25 @@ Se estiver como desativada **"Off"**, basta trocar para **"On"** para ativá-la.
 
 Para saber a sua versão, considerar apenas os três primeiros números separados por pontos. Neste momento do exemplo o jogo está na versão **"1.25.2"**.
 
-Para baixar o arquivo, basta clicar na opção de sua versão desejada:
-* [1.25.2](https://github.com/harpyeaglesbr/wayofthehunter/blob/main/Translate/v1.25.2/pt-BR/Content/Paks/translate_pt-BR.zip)
+Para baixar o arquivo, basta clicar com o botão direito do mouse na opção de sua versão desejada e escolher a opção conforme imagem abaixo:
+
+![Salvar como daownload](https://github.com/harpyeaglesbr/wayofthehunter/assets/170666537/b8d49a1f-180b-494b-8a6c-5c7fa8e33ae3)
+
+* [1.25.2](https://github.com/harpyeaglesbr/wayofthehunter/blob/main/Downloads/1.25.2/translate_pt-BR.zip)
+
+Após baixar o arquivo .ZIP, execute a extração do arquivo .pak da maneira de sua preferência.
+
+**_Atenção!_** 📢 Saia do jogo antes de executar os próximos passos.
 
 ### Instalação no PC (Steam) no idioma Português do Brasil:
-Ao baixar o arquivo o mesmo deverá estar na pasta "Downloads" de sua máquina (ou na que você escolheu).
+Ao baixar e extrair o arquivo, o mesmo deverá estar na pasta "Downloads" de sua máquina (ou na que você escolheu).
 
-Copiar o arquivo baixado para a pasta
+Copiar o arquivo baixado e extraído (.pak) para a seguinte pasta
 ```
 "C:\Program Files (x86)\Steam\steamapps\common\WayOfTheHunter\WayOfTheHunter\Content\Paks"
 ```
 
-Após o arquivo estar dentro da pasta do jogo, basta acessar normalmente.
+Após o arquivo (.pak) estar dentro da pasta informada, basta acessar o jogo normalmente.
 
 Na primeira opção, **Jogo** (Game) que terá a opção para escolha do idioma, conforme imagem abaixo.
 
@@ -73,13 +80,14 @@ Por favor, caso encontre algum problema na tradução, envie um [e-mail](mailto:
 Equipe que trabalhou para que esta tradução se tornasse realidade para a comunidade:
 
 * **Bruno Eduardo Soares Alves (PhoenixDk)** - **_Trabalho inicial de tradução - Corretor_** - *Discord* (**phoenixdk.**)
-* **Gildo Zounar Rodrigues (Gildão Hunter)** - **_Revisor - Contato com desenvolvedora oficial_** - *Discord* (**gildaohunter**)
-* **José Ricardo Garcia (Flyskin)** - **_Corretor - Revisor_** - *Discord* (**flyskin**)
-* **Lauro Geniselli (Balrog)** - **_Revisor - Interpetre_** - *Discord* (**tocadobalrog**)
+* **Gildo Zounar Rodrigues ([Gildão Hunter](https://www.youtube.com/@gildaohunter))** - **_Revisor - Contato com desenvolvedora oficial_** - *Discord* (**gildaohunter**)
+* **José Ricardo Garcia ([Flyskin](https://www.youtube.com/@flyskingames))** - **_Corretor - Revisor_** - *Discord* (**flyskin**)
+* **Lauro Geniselli ([Balrog](https://www.youtube.com/@tocadobalrog))** - **_Revisor - Interpetre_** - *Discord* (**tocadobalrog**)
 
 
 ## 🎁 Expressões de gratidão
 
+* Deixe seu feedback na guia da Steam, este é o ponto mais importante para que a desenvolvedora veja também 🚀;
 * Conte a outras pessoas sobre este projeto 📢;
 * Compartilhe em seus grupos sobre este projeto 😊;
 * Um agradecimento publicamente 🫂;
