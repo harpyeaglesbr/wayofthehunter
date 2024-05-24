@@ -36,7 +36,10 @@ Se estiver como desativada **"Off"**, basta trocar para **"On"** para ativá-la.
 
 Para saber a sua versão, considerar apenas os três primeiros números separados por pontos. Neste momento do exemplo o jogo está na versão **"1.25.2"**.
 
-Para baixar o arquivo, basta clicar na opção de sua versão desejada:
+Para baixar o arquivo, basta clicar com o botão direito do mouse na opção de sua versão desejada e escolher a opção conforme imagem abaixo:
+
+![Salvar como daownload](https://github.com/harpyeaglesbr/wayofthehunter/assets/170666537/b8d49a1f-180b-494b-8a6c-5c7fa8e33ae3)
+
 * [1.25.2](https://github.com/harpyeaglesbr/wayofthehunter/blob/main/Downloads/1.25.2/translate_pt-BR.zip)
 
 ### Instalação no PC (Steam) no idioma Português do Brasil:
