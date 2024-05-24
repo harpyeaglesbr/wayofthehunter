@@ -87,6 +87,7 @@ Equipe que trabalhou para que esta tradução se tornasse realidade para a comun
 
 ## 🎁 Expressões de gratidão
 
+* Deixe seu feedback na guia da Steam, este é o ponto mais importante para que a desenvolvedora veja também 🚀;
 * Conte a outras pessoas sobre este projeto 📢;
 * Compartilhe em seus grupos sobre este projeto 😊;
 * Um agradecimento publicamente 🫂;
