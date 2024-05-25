@@ -42,7 +42,7 @@ Para baixar o arquivo, basta clicar no link da versão desejada,
 
 e depois, na próxima página clicar em "View raw" para que o download seja executado.
 
-![View raw](https://github.com/harpyeaglesbr/wayofthehunter/assets/8241295/cd378405-38bf-47d4-b9c5-9f171763b6d6)
+![View raw](https://github.com/harpyeaglesbr/wayofthehunter/assets/8241295/bfe5814a-0311-43cb-9b6a-0403526789c6)
 
 Após baixar o arquivo .ZIP, execute a extração do arquivo .pak da maneira de sua preferência.
 
