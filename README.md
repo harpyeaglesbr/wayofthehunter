@@ -51,7 +51,7 @@ Ao baixar e extrair o arquivo, o mesmo deverá estar na pasta "Downloads" de sua
 
 Copiar o arquivo baixado e extraído (.pak) para a seguinte pasta
 ```
-"C:\Program Files (x86)\Steam\steamapps\common\WayOfTheHunter\WayOfTheHunter\Content\Paks"
+C:\Program Files (x86)\Steam\steamapps\common\WayOfTheHunter\WayOfTheHunter\Content\Paks
 ```
 
 Após o arquivo (.pak) estar dentro da pasta informada, basta acessar o jogo normalmente.
