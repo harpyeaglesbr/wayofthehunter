@@ -49,7 +49,7 @@ Após baixar o arquivo .ZIP, execute a extração do arquivo .pak da maneira de 
 ### Instalação no PC (Steam) no idioma Português do Brasil:
 Ao baixar e extrair o arquivo, o mesmo deverá estar na pasta "Downloads" de sua máquina (ou na que você escolheu).
 
-Copiar o arquivo baixado e extraído (.pak) para a seguinte pasta
+Copiar o arquivo baixado e extraído (.pak) para a seguinte pasta (lenvando em consideração que seu jogo esteja instalado na pasta padrão, caso contrário, copiar para a devida pasta).
 ```
 C:\Program Files (x86)\Steam\steamapps\common\WayOfTheHunter\WayOfTheHunter\Content\Paks
 ```
